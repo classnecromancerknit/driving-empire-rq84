@@ -1,4 +1,4 @@
-#  
+#  vip Script for driving empire offers the most advanced driving empire Script, with auto-heal and unlimited stamina. Perfect for dominating any match.
 
 
 
